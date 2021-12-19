@@ -27,9 +27,11 @@ Suppose, 5 crimes have been committed on the above map, which follows almost sam
 
 | Sl. No.  | X-Coordinate | Y-Coordinate | Weightage of the Crime (1-100) |
 |----------|--------------|--------------|--------------------------------|
-| 1        | 634          | 314          | 33                             |
-| 2        | 665          | 636          | 33                             |
-| 3        | 821          | 380          | 33                             |
+| 1 | 751 | 147 | 20 |
+| 2 | 399 | 550 | 20 |
+| 3 | 884 | 251 | 20 |
+| 4 | 118 | 719 | 20 |
+| 5 | 835 | 710 | 20 |
 
 **Generated Output for a Specific Value of parameters**
 
