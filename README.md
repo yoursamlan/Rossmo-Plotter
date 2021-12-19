@@ -10,7 +10,7 @@ Rossmo's formula is a geographic profiling formula to predict where a serial cri
 
 where, ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/12806adad484cedef74aa73f41c6809e6d806d60)
 
-As we can see from the equation, we need a few parameters to plot the probability on the map.
+As we can see from the equation, we need a few parameters to plot the probability-distribution on the map.
 - 1. Number of Crimes committed and there corresponding co-ordinates on the map (in pixel)
 - 2. Buffer radius (B)
 - 3. constants f and g
