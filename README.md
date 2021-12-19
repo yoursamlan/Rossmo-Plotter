@@ -24,9 +24,11 @@ As an example, take the following map:
 Suppose, 3 crimes have been committed on the above map, which follows almost same pattern. Based on other circumstancial evidences, the investigator concludes that, they have been committed by the exact same individual. Now, under such circumstances, we may take help from Rossmo's function and narrow down our preferences and search radius to catch theat criminal.
 
 **Crime data**
-| Sl. No. | X-Coordinate | Y-Coordinate | Weightage of the Crime (1-100) |
-------------------------------------------------------------------------
-| 1 |	634	| 314	| 33 |
-2	665	636	33
-3	821	380	33
+
+| Sl. No.  | X-Coordinate | Y-Coordinate | Weightage of the Crime (1-100) |
+|----------|--------------|--------------|--------------------------------|
+| 1        | 634          | 314          | 33                             |
+| 2        | 665          | 636          | 33                             |
+| 3        | 821          | 380          | 33                             |
+
 
