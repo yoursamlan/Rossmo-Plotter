@@ -41,4 +41,6 @@ This is the generated output for B (Buffer Radius) = 250, f = 0.5, g = 0.5
 
 This is the generated output for B (Buffer Radius) = 250 and variable f and g (with iteration limit 0.1)
 
-<img src="./Example/Final Result-Buffer250-LOWRES.gif" style="width:50%" alt="HeatMap1">
+<img src="./Example/Final Result-Buffer250-LOWRES.gif" style="width:50%" alt="HeatMap2">
+
+
