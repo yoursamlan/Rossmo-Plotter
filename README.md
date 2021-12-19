@@ -1,7 +1,7 @@
 # Rossmo Plotter
 A tool to plot and execute Rossmos's Formula using python, that helps to catch serial criminals using mathematics
 
-Author: Amlan Saha Kundu
+Author: Amlan Saha Kundu,
 version: 0.2
 
 ---
