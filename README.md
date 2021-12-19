@@ -32,4 +32,7 @@ Suppose, 3 crimes have been committed on the above map, which follows almost sam
 | 3        | 821          | 380          | 33                             |
 
 **Generated Output for a Specific Value of parameters**
-<img src="./Prediction-200-0.5-0.5.bmp" style="width:50%" alt="HeatMap1">
+
+This is the generated output for B (Buffer Radius) = 300, f = 0.5, g = 0.5
+
+<img src="./Example/Prediction-200-0.5-0.5.bmp" style="width:50%" alt="HeatMap1">
