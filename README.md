@@ -19,20 +19,26 @@ As we can see from the equation, we need a few parameters to plot the probabilit
 Rossmos Plotter create arbitrary crime scene based on a given map and plot probability distribution of each pixel using Rossmos's formula. 
 As an example, take the following map:
 
-<img src="./Map2.jpg" style="width:50%" alt="Map">
+<img src="./Map1.jpg" style="width:50%" alt="Map">
 
 Suppose, 5 crimes have been committed on the above map, which follows almost same pattern. Based on other circumstancial evidences, the investigator concludes that, they have been committed by the exact same individual. Now, under such circumstances, we may take help from Rossmo's function and narrow down our preferences and search radius to catch theat criminal.
 
-**Crime data**
+### **Crime data**
 
 | Sl. No.  | X-Coordinate | Y-Coordinate | Weightage of the Crime (1-100) |
 |----------|--------------|--------------|--------------------------------|
-| 1        | 634          | 314          | 33                             |
-| 2        | 665          | 636          | 33                             |
-| 3        | 821          | 380          | 33                             |
+| 1 | 751 | 147 | 20 |
+| 2 | 399 | 550 | 20 |
+| 3 | 884 | 251 | 20 |
+| 4 | 118 | 719 | 20 |
+| 5 | 835 | 710 | 20 |
 
-**Generated Output for a Specific Value of parameters**
+### **Generated Output for a Specific Value of parameters**
 
 This is the generated output for B (Buffer Radius) = 250, f = 0.5, g = 0.5
 
 <img src="./Example/Prediction-250-0.5-0.5.bmp" style="width:50%" alt="HeatMap1">
+
+This is the generated output for B (Buffer Radius) = 250 and variable f and g (with iteration limit 0.1)
+
+<img src="./Example/Final Result-Buffer250-LOWRES.gif" style="width:50%" alt="HeatMap1">
