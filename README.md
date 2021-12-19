@@ -7,3 +7,4 @@ Rossmo's formula is a geographic profiling formula to predict where a serial cri
 
 ## Formula:
 ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/ace3b0799c2348656129a0180f4b5571fc005ec5)
+where, ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/12806adad484cedef74aa73f41c6809e6d806d60)
