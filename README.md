@@ -31,4 +31,5 @@ Suppose, 3 crimes have been committed on the above map, which follows almost sam
 | 2        | 665          | 636          | 33                             |
 | 3        | 821          | 380          | 33                             |
 
-
+**Generated Output for a Specific Value of parameters**
+<img src="./Prediction-200-0.5-0.5.bmp" style="width:50%" alt="HeatMap1">
