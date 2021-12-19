@@ -16,3 +16,4 @@ As we can see from the equation, we need a few parameters to plot the probabilit
 - 3. constants f and g
 
 ## What this software does
+Rossmos Plotter create arbitrary crime scene based on a given map and plot probability distribution of each pixel using Rossmos's formula. 
