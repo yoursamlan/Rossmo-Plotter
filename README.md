@@ -46,9 +46,11 @@ This is the generated output for B (Buffer Radius) = 250 and variable f and g (w
 
 ## How to Run this app
 
-Download the repository and go to its project folder. Then run the following commands.
+Make sure you have ```python 3.7 or higher``` and ```git``` installed on your machine. Now, open up your terminal and run the following commands: 
 
 ```
-pip install requirements.txt
+git clone https://github.com/yoursamlan/Rossmo-Plotter.git
+cd Rossmo-Plotter
+pip install -r requirements.txt
 python Rossmo-Plotter.py
 ```
