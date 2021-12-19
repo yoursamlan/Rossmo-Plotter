@@ -21,7 +21,7 @@ As an example, take the following map:
 
 <img src="./Map2.jpg" style="width:50%" alt="Map">
 
-Suppose, 3 crimes have been committed on the above map, which follows almost same pattern. Based on other circumstancial evidences, the investigator concludes that, they have been committed by the exact same individual. Now, under such circumstances, we may take help from Rossmo's function and narrow down our preferences and search radius to catch theat criminal.
+Suppose, 5 crimes have been committed on the above map, which follows almost same pattern. Based on other circumstancial evidences, the investigator concludes that, they have been committed by the exact same individual. Now, under such circumstances, we may take help from Rossmo's function and narrow down our preferences and search radius to catch theat criminal.
 
 **Crime data**
 
@@ -33,6 +33,6 @@ Suppose, 3 crimes have been committed on the above map, which follows almost sam
 
 **Generated Output for a Specific Value of parameters**
 
-This is the generated output for B (Buffer Radius) = 300, f = 0.5, g = 0.5
+This is the generated output for B (Buffer Radius) = 250, f = 0.5, g = 0.5
 
-<img src="./Example/Prediction-200-0.5-0.5.bmp" style="width:50%" alt="HeatMap1">
+<img src="./Example/Prediction-250-0.5-0.5.bmp" style="width:50%" alt="HeatMap1">
