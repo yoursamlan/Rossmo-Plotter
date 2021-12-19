@@ -18,4 +18,4 @@ As we can see from the equation, we need a few parameters to plot the probabilit
 ## What this software does
 Rossmos Plotter create arbitrary crime scene based on a given map and plot probability distribution of each pixel using Rossmos's formula. 
 As an example, take the following map:
-![](./Map2.jpg)
+<img src="./Map2.jpg" style="width:50%" alt="Map">
