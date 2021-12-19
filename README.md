@@ -44,3 +44,11 @@ This is the generated output for B (Buffer Radius) = 250 and variable f and g (w
 <img src="./Example/Final Result-Buffer250-LOWRES.gif" style="width:50%" alt="HeatMap2">
 
 
+## How to Run this app
+
+Download the repository and go to its project folder. Then run the following commands.
+
+```
+pip install requirements.txt
+python Rossmo-Plotter.py
+```
