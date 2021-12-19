@@ -14,3 +14,5 @@ As we can see from the equation, we need a few parameters to plot the probabilit
 - 1. Number of Crimes committed and there corresponding co-ordinates on the map (in pixel)
 - 2. Buffer radius (B)
 - 3. constants f and g
+
+## What this software does
