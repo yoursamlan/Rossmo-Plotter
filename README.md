@@ -3,6 +3,7 @@ A tool to plot and execute Rossmos's Formula using python, that helps to catch s
 
 Author: Amlan Saha Kundu
 version: 0.2
+
 ---
 
 Rossmo's formula is a geographic profiling formula to predict where a serial criminal lives. It relies upon the tendency of criminals to not commit crimes near places where they might be recognized, but also to not travel excessively long distances. The formula was developed and patented in 1996 by criminologist Kim Rossmo.
