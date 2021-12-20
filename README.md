@@ -1,6 +1,8 @@
 # Rossmo Plotter
 A tool to plot and execute Rossmos's Formula using python, that helps to catch serial criminals using mathematics
 
+Author: Amlan Saha Kundu
+
 ---
 
 Rossmo's formula is a geographic profiling formula to predict where a serial criminal lives. It relies upon the tendency of criminals to not commit crimes near places where they might be recognized, but also to not travel excessively long distances. The formula was developed and patented in 1996 by criminologist Kim Rossmo.
@@ -11,9 +13,9 @@ Rossmo's formula is a geographic profiling formula to predict where a serial cri
 where, ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/12806adad484cedef74aa73f41c6809e6d806d60)
 
 As we can see from the equation, we need a few parameters to plot the probability-distribution on the map.
-- 1. Number of Crimes committed and there corresponding co-ordinates on the map (in pixel)
-- 2. Buffer radius (B)
-- 3. constants f and g
+-  Number of Crimes committed and there corresponding co-ordinates on the map (in pixel)
+-  Buffer radius (B)
+-  constants f and g
 
 ## What this software does
 Rossmos Plotter create arbitrary crime scene based on a given map and plot probability distribution of each pixel using Rossmos's formula. 
@@ -39,7 +41,9 @@ This is the generated output for B (Buffer Radius) = 250, f = 0.5, g = 0.5
 
 <img src="./Example/Prediction-250-0.5-0.5.bmp" style="width:50%" alt="HeatMap1">
 
-This is the generated output for B (Buffer Radius) = 250 and variable f and g (with iteration limit 0.1)
+This is the generated output for a fixed Buffer radius i.e., B = 250 and variable f and g (with iteration limit 0.1)
+
+<i>Quality is reduced for faster loading. For full resolution image, <a href="./Example/Final Result-Buffer250.gif" target="_blank">click here</a></i>
 
 <img src="./Example/Final Result-Buffer250-LOWRES.gif" style="width:50%" alt="HeatMap2">
 
