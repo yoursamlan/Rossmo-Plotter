@@ -41,7 +41,7 @@ This is the generated output for B (Buffer Radius) = 250, f = 0.5, g = 0.5
 
 <img src="./Example/Prediction-250-0.5-0.5.bmp" style="width:50%" alt="HeatMap1">
 
-This is the generated output for B (Buffer Radius) = 250 and variable f and g (with iteration limit 0.1)
+This is the generated output for a fixed Buffer radius i.e., B = 250 and variable f and g (with iteration limit 0.1)
 
 <img src="./Example/Final Result-Buffer250-LOWRES.gif" style="width:50%" alt="HeatMap2">
 
