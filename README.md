@@ -47,7 +47,9 @@ This is the generated output for a fixed Buffer radius i.e., B = 250 and variabl
 
 <img src="./Example/Final Result-Buffer250-LOWRES.gif" style="width:50%" alt="HeatMap2">
 
-So, as we can see, the variable f and g has very little influence on the overall outcome. But now, the question stands, what will happen, if we fix a particular pair of f and g (eg., f = 0.5, g = 0.5) and iterate the buffer radius (B) from 10 to 1000 pixel (width of the map), taking 10 pixels as a unit:
+So, as we can see, the variable f and g has very little influence on the overall outcome. But now, the question stands, what will happen, if we fix a particular pair of f and g (eg., f = 0.5, g = 0.5) and iterate the buffer radius (B) from 10 to 1000 pixel (width of the map), taking 10 pixels as unit:
+
+<i>Quality is reduced for faster loading. For full resolution image, <a href="./Example/Final Result-Variable-Buffer.gif" target="_blank">click here</a></i>
 
 <img src="./Example/Final Result-Variable-Buffer-LOWRES.gif" style="width:50%" alt="HeatMap2">
 
